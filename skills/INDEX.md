@@ -23,6 +23,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `broll-doctrine.md` | When B-roll earns its place, selection order, timing, layouts, anti-patterns | ✅ custom |
 | `chinese-subtitles.md` | Chinese short-form caption segmentation, emphasis, placement, and mobile readability | ✅ custom |
 | `spoken-text-layout.md` | **Editorial spoken-text layout, not ASR subtitles**: spoken caption layer, emphasis layer, context/title layer, Chinese line breaking, semantic timing, text-picture interaction, and QC | ✅ custom |
+| `viral-spoken-copy-layout.md` | **Audio → transcript → editorial copy → emphasis words → animated text → matching visual**; distilled from current Chinese talking-head tutorials, with anti-template QC | ✅ custom |
 | `text-layout.md` | Semantic text hierarchy, emphasis phrases, headline cards, mobile-safe compositions | ✅ custom |
 | `premium-text-layout.md` | Three-level Chinese text hierarchy, composition, timing, contrast cards, anti-patterns | ✅ custom |
 | `visual-assets.md` | Image/video insert system, speaker+asset, PiP, full-screen inserts, source/rights discipline | ✅ custom |
@@ -34,7 +35,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `short-video-retention.md` | Opening, information rhythm, repetition control, payoff, and CTA rules | ✅ custom |
 | `mobile-safe-area.md` | 9:16 phone safe-area and collision rules for faces, products, captions, and UI regions | ✅ custom |
 | `anti-low-style.md` | **Blocking anti-low-style gate**: no gray caption panels, no repetitive framed PiP, no generic chapter labels, no decorative rules, no decoration-driven editing | ✅ custom |
-| `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ custom |
+| `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ ported |
 | `portrait-masking.md` | Speaker cutout/masking compositions and usage triggers | ✅ custom |
 | `video-account-qc.md` | Blocking quality gate for speaker, captions, rhythm, B-roll, audio, and overall editorial quality | ✅ custom |
 
