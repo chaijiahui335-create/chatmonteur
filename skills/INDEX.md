@@ -22,6 +22,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 |---|---|---|
 | `broll-doctrine.md` | When B-roll earns its place, selection order, timing, layouts, anti-patterns | ✅ custom |
 | `chinese-subtitles.md` | Chinese short-form caption segmentation, emphasis, placement, and mobile readability | ✅ custom |
+| `spoken-text-layout.md` | **Editorial spoken-text layout, not ASR subtitles**: spoken caption layer, emphasis layer, context/title layer, Chinese line breaking, semantic timing, text-picture interaction, and QC | ✅ custom |
 | `text-layout.md` | Semantic text hierarchy, emphasis phrases, headline cards, mobile-safe compositions | ✅ custom |
 | `premium-text-layout.md` | Three-level Chinese text hierarchy, composition, timing, contrast cards, anti-patterns | ✅ custom |
 | `visual-assets.md` | Image/video insert system, speaker+asset, PiP, full-screen inserts, source/rights discipline | ✅ custom |
