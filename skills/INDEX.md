@@ -5,7 +5,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | Skill | Read when | Status |
 |---|---|---|
 | `montage.md` | Any edit session — the pipeline orchestrator. **Holds the capability map: what exists and when to call it.** Routes mechanical vs editorial, phases ①②③④ and the pre-preview privacy scan | ✅ ported |
-| `video-account.md` | Chinese short-form/video-account talking-head work. Read for speaker-first editing, hook, visual-event, B-roll, Chinese caption, masking, and QC rules | ✅ custom |
+| `video-account.md` | Chinese short-form/video-account talking-head work. Read for speaker-first editing, hook, visual-event, semantic text, visual assets, B-roll, Chinese caption, masking, and QC rules | ✅ custom |
 | `cutting.md` | Removing pauses (deterministic branch) or fillers/stumbles/retakes (LLM branch) | ✅ ported |
 | `hook-editing.md` | Voice and visuals recorded separately, matched by meaning (sidecar hook) | ✅ ported |
 | `subtitles.md` | Building/burning captions (Netflix-grade standard, Cyrillic-aware) | ✅ standard FIXED 2026-07-26: no plate, no outline, colour accents only, karaoke default. Burn only on explicit request |
@@ -19,6 +19,8 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 |---|---|---|
 | `broll-doctrine.md` | When B-roll earns its place, selection order, timing, layouts, anti-patterns | ✅ custom |
 | `chinese-subtitles.md` | Chinese short-form caption segmentation, emphasis, placement, and mobile readability | ✅ custom |
+| `text-layout.md` | Semantic text hierarchy, emphasis phrases, headline cards, mobile-safe compositions | ✅ custom |
+| `visual-assets.md` | Image/video insert system, speaker+asset, PiP, full-screen inserts, source/rights discipline | ✅ custom |
 | `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ custom |
 | `portrait-masking.md` | Speaker cutout/masking compositions and usage triggers | ✅ custom |
 | `video-account-qc.md` | Blocking quality gate for speaker, captions, rhythm, B-roll, audio, and overall editorial quality | ✅ custom |
