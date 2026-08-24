@@ -4,14 +4,26 @@
 
 This skill adapts ChatMonteur for Chinese short-form video-account content built around a real business owner or expert speaking to camera. The goal is not merely to remove pauses and burn captions. The goal is to produce a clear, human, information-dense 9:16 edit with deliberate visual events while keeping the speaker as the primary character.
 
+## Required references
+
+For every Chinese video-account edit, load these references as needed:
+
+- `references/text-layout.md` for semantic text hierarchy and composition.
+- `references/visual-assets.md` for image/video insert decisions and composition.
+- `references/broll-doctrine.md` for B-roll relevance and timing.
+- `references/talking-head-effects.md` for reframing and motion.
+- `references/portrait-masking.md` for speaker cutout compositions.
+- `references/chinese-subtitles.md` for mobile caption readability.
+- `references/video-account-qc.md` before delivery.
+
 ## Editorial hierarchy
 
 1. Meaning and spoken clarity
 2. The speaker's credibility and presence
 3. Hook and retention in the opening seconds
 4. Visual variety that improves comprehension
-5. Readable Chinese captions
-6. Relevant B-roll / screenshots / graphics
+5. Semantic text design
+6. Relevant B-roll / screenshots / graphics / video inserts
 7. Music and SFX
 8. Decorative effects
 
@@ -21,6 +33,7 @@ Never sacrifice meaning, natural delivery, or speaker visibility for decoration.
 
 - Aspect ratio: 9:16.
 - Preserve the original voice as the primary audio source.
+- Preserve source resolution through the working timeline; do not create a 720p master merely for convenience.
 - Prefer a clean, natural talking-head look over aggressive template effects.
 - The speaker remains visible for most of the runtime unless a B-roll replacement materially improves understanding.
 - Use one primary transition language across the edit; hard cuts are preferred.
@@ -45,7 +58,7 @@ Remove only filler, unusable silence, false starts, repeated takes, and stumbles
 
 The opening must communicate a reason to keep watching. Prefer the strongest usable sentence or short sequence from the recording. Do not manufacture claims that the speaker did not make.
 
-During the first 1-3 seconds, create at least one intentional visual event when appropriate: a tighter crop, keyword treatment, graphic cue, or meaningful B-roll. Do not stack several effects merely to force activity.
+During the first 1-3 seconds, create at least one intentional visual event when appropriate: a tighter crop, semantic headline, keyword treatment, graphic cue, or meaningful B-roll. Do not stack several effects merely to force activity.
 
 ## Visual-event doctrine
 
@@ -55,14 +68,27 @@ Possible events:
 
 - subtle push-in / pull-back
 - crop or reframing
-- keyword emphasis
-- relevant B-roll
+- semantic emphasis text
+- relevant image or short video insert
 - screenshot / photo / document
 - simple diagram or number card
 - speaker cutout / masked composition when it improves explanation
 - short punch-in on an important phrase
+- product close-up when the spoken content refers to the product
 
 Do not create an event just because a timer says one is due. Meaning controls timing.
+
+## Text is not "automatic subtitles"
+
+Never use raw ASR output as the final visual design. The transcript supplies timing and meaning; the editorial layer creates a separate text hierarchy.
+
+Every segment may have:
+
+1. spoken caption: compact phrase-level support
+2. emphasis phrase: a short visual takeaway derived from the current idea
+3. headline/card: only at major structural turns
+
+The emphasis phrase must not simply repeat the entire sentence. It should compress the point into a few words the viewer can notice immediately.
 
 ## Zoom rules
 
@@ -143,7 +169,7 @@ Before delivery, reject the edit if any of these are true:
 
 ## Review loop
 
-Produce a mechanical draft first, then an editorial plan and preview. When the user gives feedback such as "太乱", "字幕太多", "这里放大", "这里不要 B-roll", or "这里保留老板画面", treat that feedback as an editorial constraint for the current project and apply it consistently to subsequent revisions.
+Produce a mechanical draft first, then an editorial plan and preview. When the user gives feedback such as "太乱", "字幕太多", "这里放大", "这里不要 B-roll", "这里加插图", or "这里插一段视频", treat that feedback as an editorial constraint for the current project and apply it consistently to subsequent revisions.
 
 ## Non-goals
 
