@@ -7,6 +7,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `montage.md` | Any edit session — the pipeline orchestrator. **Holds the capability map: what exists and when to call it.** Routes mechanical vs editorial, phases ①②③④ and the pre-preview privacy scan | ✅ ported |
 | `video-account.md` | Chinese short-form/video-account talking-head work. Read for speaker-first editing, hook, visual-event, semantic text, visual assets, B-roll, Chinese caption, masking, and QC rules | ✅ custom |
 | `premium-talking-head.md` | User wants a polished, high-end talking-head edit with designed text, images/video inserts, product moments, masking, and a coherent visual grammar | ✅ custom |
+| `viral-chinese-talking-head.md` | User wants current Chinese viral-style talking-head editing; use as a reference for hook, rhythm, 花字, supplementary visuals, keyframe motion, sound, and anti-template checks | ✅ custom |
 | `visual-storyboard.md` | Plan the visual story from the transcript before rendering; maps semantic beats to framing, text, assets, and layouts | ✅ custom |
 | `cutting.md` | Removing pauses (deterministic branch) or fillers/stumbles/retakes (LLM branch) | ✅ ported |
 | `hook-editing.md` | Voice and visuals recorded separately, matched by meaning (sidecar hook) | ✅ ported |
