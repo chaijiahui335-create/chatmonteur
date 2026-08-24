@@ -6,6 +6,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 |---|---|---|
 | `montage.md` | Any edit session — the pipeline orchestrator. **Holds the capability map: what exists and when to call it.** Routes mechanical vs editorial, phases ①②③④ and the pre-preview privacy scan | ✅ ported |
 | `video-account.md` | Chinese short-form/video-account talking-head work. Read for speaker-first editing, hook, visual-event, semantic text, visual assets, B-roll, Chinese caption, masking, and QC rules | ✅ custom |
+| `premium-talking-head.md` | User wants a polished, high-end talking-head edit with designed text, images/video inserts, product moments, masking, and a coherent visual grammar | ✅ custom |
 | `visual-storyboard.md` | Plan the visual story from the transcript before rendering; maps semantic beats to framing, text, assets, and layouts | ✅ custom |
 | `cutting.md` | Removing pauses (deterministic branch) or fillers/stumbles/retakes (LLM branch) | ✅ ported |
 | `hook-editing.md` | Voice and visuals recorded separately, matched by meaning (sidecar hook) | ✅ ported |
@@ -24,6 +25,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `premium-text-layout.md` | Three-level Chinese text hierarchy, composition, timing, contrast cards, anti-patterns | ✅ custom |
 | `visual-assets.md` | Image/video insert system, speaker+asset, PiP, full-screen inserts, source/rights discipline | ✅ custom |
 | `asset-matching.md` | Semantic matching of real product footage, screenshots, photos, B-roll, and graphics to spoken anchors | ✅ custom |
+| `visual-asset-manifest.md` | Machine-executable asset events, layouts, source validation, timing, and asset QC | ✅ custom |
 | `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ custom |
 | `portrait-masking.md` | Speaker cutout/masking compositions and usage triggers | ✅ custom |
 | `video-account-qc.md` | Blocking quality gate for speaker, captions, rhythm, B-roll, audio, and overall editorial quality | ✅ custom |
