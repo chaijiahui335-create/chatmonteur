@@ -26,6 +26,11 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `visual-assets.md` | Image/video insert system, speaker+asset, PiP, full-screen inserts, source/rights discipline | ✅ custom |
 | `asset-matching.md` | Semantic matching of real product footage, screenshots, photos, B-roll, and graphics to spoken anchors | ✅ custom |
 | `visual-asset-manifest.md` | Machine-executable asset events, layouts, source validation, timing, and asset QC | ✅ custom |
+| `edit-decision-engine.md` | Converts semantic segments into executable edit events: speaker, text, visual, layout, motion, reason | ✅ custom |
+| `asset-search-and-placement.md` | Asset classes, semantic search intent, placement modes, relevance gate, no-invention rule | ✅ custom |
+| `premium-composition.md` | Stable premium composition states, hierarchy, transitions, rhythm, and anti-template rules | ✅ custom |
+| `short-video-retention.md` | Opening, information rhythm, repetition control, payoff, and CTA rules | ✅ custom |
+| `mobile-safe-area.md` | 9:16 phone safe-area and collision rules for faces, products, captions, and UI regions | ✅ custom |
 | `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ custom |
 | `portrait-masking.md` | Speaker cutout/masking compositions and usage triggers | ✅ custom |
 | `video-account-qc.md` | Blocking quality gate for speaker, captions, rhythm, B-roll, audio, and overall editorial quality | ✅ custom |
