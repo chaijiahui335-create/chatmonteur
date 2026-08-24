@@ -16,7 +16,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `sound.md` | Music beds, ducking, SFX placement (decisions; execution in references) | ✅ written |
 | `production-rules.md` | Always — hard correctness rules (CFR, no stream-copy, loudnorm-last) | ✅ exists |
 
-## Chinese video-account references (`references/`)
+## Chinese video-account references (`references/`, loaded on demand)
 
 | Reference | Contents | Status |
 |---|---|---|
@@ -33,6 +33,7 @@ The agent's editorial brain. Thin routers here; heavy reference material in `ref
 | `premium-composition.md` | Stable premium composition states, hierarchy, transitions, rhythm, and anti-template rules | ✅ custom |
 | `short-video-retention.md` | Opening, information rhythm, repetition control, payoff, and CTA rules | ✅ custom |
 | `mobile-safe-area.md` | 9:16 phone safe-area and collision rules for faces, products, captions, and UI regions | ✅ custom |
+| `anti-low-style.md` | **Blocking anti-low-style gate**: no gray caption panels, no repetitive framed PiP, no generic chapter labels, no decorative rules, no decoration-driven editing | ✅ custom |
 | `talking-head-effects.md` | Reframe/zoom rules, semantic anchors, anti-patterns | ✅ custom |
 | `portrait-masking.md` | Speaker cutout/masking compositions and usage triggers | ✅ custom |
 | `video-account-qc.md` | Blocking quality gate for speaker, captions, rhythm, B-roll, audio, and overall editorial quality | ✅ custom |
